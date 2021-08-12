@@ -14,7 +14,7 @@ python3 extract.py
 
 # Demonstração:
 
-<img src="https://github.com/cleitonleonel/PyDecompile/blob/master/src/demo.mp4?raw=true" alt="PyDecompile" width="450"/>
+<img src="https://github.com/cleitonleonel/PyDecompile/blob/master/src/demo.gif?raw=true" alt="PyDecompile" width="450"/>
 
 # Este projeto ajudou você?
 
